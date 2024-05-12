@@ -1,0 +1,3 @@
+Learning Rate: 0.01, Train Accuracy: 99.88768518578803, Test Accuracy: 61.75917914941965, Minimum Test Accuracy: 33.787465940054496, Maximum Test Accuracy: 88.0053908355795
+Learning Rate: 0.001, Train Accuracy: 99.88785644387617, Test Accuracy: 58.71946991170661, Minimum Test Accuracy: 38.01089918256131, Maximum Test Accuracy: 88.54447439353099
+Learning Rate: 0.0001, Train Accuracy: 95.88823062805298, Test Accuracy: 53.02358815948813, Minimum Test Accuracy: 34.045393858477965, Maximum Test Accuracy: 65.1006711409396
