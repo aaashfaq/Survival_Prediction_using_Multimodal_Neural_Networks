@@ -5,4 +5,4 @@ In this Master thesis work, Multimodal Neural Netoworks were developed using imm
 Preprocessing folder contains the code used for preapring the data for the model.
 
 
-Models folder contained the designed Multimodal neural Netowrks
+Model folder contained the designed Multimodal neural Netowrks
