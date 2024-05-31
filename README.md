@@ -15,4 +15,4 @@ The designed multimodal neural network consists of ResNet-50 model for extractin
 
 -- Results folder contains the evaluation metrics that were recorded after during training and testing of the model.
 
--- Model Archietecture folders contains Architecture Diagrams for the designed Multimodal Neural Networks
+-- Model Architecture folders contains Architecture Diagrams for the designed Multimodal Neural Networks
